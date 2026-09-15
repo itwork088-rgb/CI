@@ -1,5 +1,5 @@
-# def add(a, b):
-#     return a + b
+def add(a, b):
+    return a + b
 
 
 # def discount_price(price, percent):
@@ -10,8 +10,13 @@
 # def is_adult(age):
 #     return age >= 18
 
-# def multiply(a, b):
-#     return a * b
+def multiply(a, b):
+    return a * b
 
-# def subtract(a, b):
-#     return a - b
+def subtract(a, b):
+    return a - b
+
+def divide(a, b):
+    if b == 0:
+        raise ValueError("Деление на ноль невозможно")
+    return a / b
