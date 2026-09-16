@@ -30,7 +30,7 @@
 # @pytest.fixture
 # def user():
 #     return {
-#         "name": "Emiliya", 
+#         "name": "Emiliya",
 #         "is_active": True,
 #         "balance": 1000,
 #     }

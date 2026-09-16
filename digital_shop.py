@@ -8,6 +8,4 @@
 #     return sum
 
 
-
-
 # def buy_product(user, product):

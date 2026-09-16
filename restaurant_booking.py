@@ -6,7 +6,7 @@
 
 #     return {
 #         "name": name,
-#         "people": people, 
+#         "people": people,
 #     }
 
 

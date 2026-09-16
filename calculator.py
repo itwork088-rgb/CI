@@ -10,11 +10,14 @@ def add(a, b):
 # def is_adult(age):
 #     return age >= 18
 
+
 def multiply(a, b):
     return a * b
 
+
 def subtract(a, b):
     return a - b
+
 
 def divide(a, b):
     if b == 0:
