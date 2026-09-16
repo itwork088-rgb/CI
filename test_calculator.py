@@ -65,7 +65,8 @@
 # def test_is_adult(age, expected):
 #     assert is_adult(age) == expected 
 
-from calculator import add, multiply, subtract, divide
+from calculator import add, divide, multiply, subtract
+
 
 def test_add():
     assert add(2, 3) == 5

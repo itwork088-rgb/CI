@@ -1,5 +1,6 @@
 from age_checker import is_adult
 
+
 def test_is_adult():
     assert is_adult(20) is True
 
